@@ -1,0 +1,12 @@
+c:\users\ксения\documents\visual studio 2015\Projects\entropy\entropy\bin\Debug\entropy.exe.config
+c:\users\ксения\documents\visual studio 2015\Projects\entropy\entropy\bin\Debug\entropy.exe
+c:\users\ксения\documents\visual studio 2015\Projects\entropy\entropy\bin\Debug\entropy.pdb
+c:\users\ксения\documents\visual studio 2015\Projects\entropy\entropy\obj\Debug\entropy.csprojResolveAssemblyReference.cache
+c:\users\ксения\documents\visual studio 2015\Projects\entropy\entropy\obj\Debug\entropy.exe
+c:\users\ксения\documents\visual studio 2015\Projects\entropy\entropy\obj\Debug\entropy.pdb
+D:\Downloads\entropy1\entropy\entropy\bin\Debug\entropy.exe.config
+D:\Downloads\entropy1\entropy\entropy\bin\Debug\entropy.exe
+D:\Downloads\entropy1\entropy\entropy\bin\Debug\entropy.pdb
+D:\Downloads\entropy1\entropy\entropy\obj\Debug\entropy.csprojResolveAssemblyReference.cache
+D:\Downloads\entropy1\entropy\entropy\obj\Debug\entropy.exe
+D:\Downloads\entropy1\entropy\entropy\obj\Debug\entropy.pdb
